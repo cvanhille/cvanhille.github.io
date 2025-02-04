@@ -35,6 +35,6 @@ nav ul li a {
     margin: 20px auto;
     width: 200px; /* Adjust size */
     height: 200px;
-    border-radius: 50%;
+    border-radius: 75%;
     object-fit: cover;
 }
