@@ -41,7 +41,7 @@ nav ul li a {
 #WhoIAm {
     max-width: 1200px; /* Adjust width as needed */
     margin: auto;
-    text-align: left;
+    text-align: justify; /* before: left */
 }
 .whoiam-container {
     display: flex;
