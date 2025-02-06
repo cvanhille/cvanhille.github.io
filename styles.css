@@ -39,7 +39,7 @@ nav ul li a {
     object-fit: cover;
 } */
 #WhoIAm {
-    max-width: 1200px; /* Adjust width as needed */
+    max-width: 800px; /* Adjust width as needed */
     margin: auto;
     text-align: justify; /* before: left */
 }
