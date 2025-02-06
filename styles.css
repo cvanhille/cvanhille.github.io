@@ -39,7 +39,7 @@ nav ul li a {
     object-fit: cover;
 } */
 #WhoIAm {
-    max-width: 800px; /* Adjust width as needed */
+    max-width: 1200px; /* Adjust width as needed */
     margin: auto;
     text-align: left;
 }
@@ -50,6 +50,6 @@ nav ul li a {
 }
 .profile-pic {
     width: 150px; /* Adjust size as needed */
-    height: auto;
+    height: 150px; /* before: auto */
     border-radius: 50%; /* Optional: Makes image circular */
 }
