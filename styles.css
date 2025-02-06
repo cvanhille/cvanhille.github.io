@@ -68,3 +68,18 @@ nav ul li a {
     height: auto; /* Prevents image from stretching */
     border-radius: 50%; /* Optional: Makes image circular */
 }
+#Contact {
+    max-width: 400px; /* Adjust width as needed */
+    margin: auto;
+    text-align: justify; /* before: left */
+}
+.contact-container {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between image and text */
+    padding: 20px; /* Adds space inside the box */
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 10px; /* Optional: Rounded corners */
+    background-color: #2e4058; /*#f9f9f9; /* Background */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Optional: Soft shadow */
+}
