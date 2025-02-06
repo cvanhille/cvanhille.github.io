@@ -74,7 +74,7 @@ nav ul li a {
     text-align: justify; /* before: left */
 }
 .contact-container {
-    display: flex;
+    display: grid;
     align-items: center;
     gap: 20px; /* Space between image and text */
     padding: 20px; /* Adds space inside the box */
