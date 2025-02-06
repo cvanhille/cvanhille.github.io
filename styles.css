@@ -100,6 +100,12 @@ nav ul li a {
     display: inline-block;
 }
 
+.contact-container a img {
+    width: 32px; /* Adjust icon size */
+    height: 32px;
+    transition: transform 0.2s ease-in-out;
+}
+
 .contact-container img {
     width: 32px; /* Adjust icon size */
     height: 32px;
