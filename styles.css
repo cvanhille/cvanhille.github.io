@@ -143,7 +143,8 @@ nav ul li a {
     display: flex;
     flex-direction: column; /* Ensure elements stack vertically */
     align-items: flex-start; /* Align text to the left */
-    gap: 20px; /* Space between paragraphs */
+    margin: 0 0 10px 0;
+    /* gap: 20px; Space between paragraphs */
     padding: 20px;
     border: 2px solid #333;
     border-radius: 10px;
