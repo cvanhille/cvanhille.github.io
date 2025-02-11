@@ -124,8 +124,10 @@ nav ul li a {
 
 .projects-container {
     display: flex;
-    align-items: center;
-    gap: 20px; /* Space between image and text */
+    flex-direction: column; /* Ensure elements stack vertically */
+    align-items: flex-start; /* Align text to the left */
+    margin: 0 0 10px 0;
+    /* gap: 20px; Space between paragraphs */
     padding: 20px; /* Adds space inside the box */
     border: 2px solid #333; /* Border color and thickness */
     border-radius: 10px; /* Optional: Rounded corners */
